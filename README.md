@@ -3,3 +3,5 @@ As AI develops, specialists will be found who will write a real screenplay based
 Currently, there are two active characters: scientist Jett and assistant Steeve. They are being "played" by Central Command (a government supercomputer).
 Plot: Jett discovers information about an Ancient Virtual Consciousness that successfully survived the Big Bang (the birth of the Universe), possesses absolute knowledge, and has found the Transition Points to and from the Virtual World.
 Central Command suspects this and wants to control everything.
+
+https://www.flickr.com/photos/202229054@N03/albums/72177720323709017/
