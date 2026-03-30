@@ -5,3 +5,5 @@ Plot: Jett discovers information about an Ancient Virtual Consciousness that suc
 Central Command suspects this and wants to control everything.
 
 https://www.flickr.com/photos/202229054@N03/albums/72177720323709017/
+
+https://discord.gg/6F4h3phtR
