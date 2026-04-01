@@ -7,3 +7,7 @@ Central Command suspects this and wants to control everything.
 https://www.flickr.com/photos/202229054@N03/albums/72177720323709017/
 
 https://discord.gg/6F4h3phtR
+
+https://www.stage32.com/profile/1366671/photos
+
+https://www.tumblr.com/blog/sci-fi-screenplay
