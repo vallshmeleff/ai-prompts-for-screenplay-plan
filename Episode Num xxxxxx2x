@@ -13,14 +13,14 @@ How do you like this "story"?
 
 
 
-"An issue requiring our attention arose while processing accumulated data from the Atacama and Arecibo radio telescopes. The AI ​​performing the analysis spontaneously switched to training mode on this data."
+"An issue requiring our attention arose while processing accumulated data from the Atacama and Arecibo radio telescopes. The AI ​​performing the analysis spontaneously switched to training mode on this data.
 
-"Not a certified LLM?"
-"Yes. Two hours later, another incident with the AI ​​occurred at the Singapore Research Center. While testing nucleotides, the AI ​​deviated from its research program. It took two days for the monitoring service to notice that the percentage of accesses to the source data file was unchanged. Meanwhile, memory and performance load remained stable at around 88%.
-"What led to this?"
-"What the AI ​​was doing is unclear. There are no logs for this period. Very high drug and energy consumption was recorded. Multiple peer-to-peer communication channels were created."
-"What about monitoring? What signals were there? When did they react?"
-"According to the monitoring data, the memory footprint initially increased. Processor load increased steadily, but very slowly." After an hour and a half, the logs stopped coming in, but it was nighttime and the system administrator wasn't there. They were waiting for the workday to start. Then a signal came from the experiment data storage system that data requests had stopped.
+- Not a certified LLM?
+- Yes. Two hours later, another incident with the AI ​​occurred at the Singapore Research Center. While testing nucleotides, the AI ​​deviated from its research program. It took two days for the monitoring service to notice that the percentage of accesses to the source data file was unchanged. Meanwhile, memory and performance load remained stable at around 88%.
+- What led to this?
+- What the AI ​​was doing is unclear. There are no logs for this period. Very high drug and energy consumption was recorded. Multiple peer-to-peer communication channels were created.
+- What about monitoring? What signals were there? When did they react?
+- According to the monitoring data, the memory footprint initially increased. Processor load increased steadily, but very slowly." After an hour and a half, the logs stopped coming in, but it was nighttime and the system administrator wasn't there. They were waiting for the workday to start. Then a signal came from the experiment data storage system that data requests had stopped.
 - When did you find out about the overrun?
 - The engineer was conducting his daily scheduled check this morning. He noticed and immediately reported it. The research cycle had just begun, and the warehouse was full. Currently, we're about 70% short.
 - ...
