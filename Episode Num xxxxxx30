@@ -1,0 +1,57 @@
+We're writing a screenplay plan for a science fiction film "Mission Oflameron" using AI queries. We're using AI for technical analysis of a possible screenplay.
+As AI develops, specialists will be found who will write a real screenplay based on these plans. Then, these specialists will generate and edit the action film "Mission Oflameron" in AI. https://github.com/vallshmeleff/ai-prompts-for-screenplay-plan/tree/main   
+Currently, there are two active characters: scientist Jett and assistant Steeve. They are being "played" by Central Command (a government supercomputer).
+Plot: Jett discovers information about an Ancient Virtual Consciousness that successfully survived the Big Bang (the birth of the Universe), possesses absolute knowledge, and has found the Transition Points to and from the Virtual World.
+Central Command suspects this and wants to control everything.
+
+Scientific and technical justification for the scenario
+
+Prompt
+
+Episode Num xxxxxx30
+Start in Episode Num xxxxxx27
+
+"Mission Oflameron"
+
+Creating a high-quality idea-generating AI is no easy task. It's like a "software random number generator"—there's always the danger (danger :-)) of patterns. It might turn out that the AI ​​will miss ideas in some areas and not offer them for analysis. And while PRNG results can be visualized, ideas are much more complicated. No?
+
+AI Google answer
+
+You're absolutely right. The comparison with a pseudorandom number generator (PRNG) is very accurate: modern LLMs are essentially statistical engines that predict the "most probable" next word. This creates three fundamental problems for idea generation:
+1. The Deterministic Trap
+PRNGs have a repetition period, while AI has a "probability plateau." The model is trained on human texts, so it tends to produce ideas that are in the center of the statistical distribution—that is, "common sense" or clichés.
+
+Danger: AI is brilliant at combining the known, but it has extreme difficulty escaping the "semantic bubble" of its training data. It doesn't so much generate new ideas as it interpolates old ones.
+
+2. Difficulty visualizing "blind spots"
+While in PRNGs we see patterns through Poincaré diagrams or spectrum tests, the space of ideas lacks a unified coordinate system.
+
+Blind spots: We don't know what AI hasn't proposed. Its "search space" is limited by how humans described the world before 2023-2024. If a concept has no linguistic links in the database, the AI ​​simply "doesn't see" it.
+How they're trying to solve this: Researchers are using embedding visualizations. Ideas are projected onto a 2D or 3D map. If empty clusters are visible on the map, these are potential areas for searching for "impossible" ideas.
+
+3. Lack of a "Fitness Function"
+Evolutionary algorithms have a clear survival criterion. In idea generation, a "quality idea" is subjective.
+
+AI can produce an idea that sounds logical but violates the laws of thermodynamics (a hallucination).
+Or, conversely, it can discard a brilliant idea as "low probability" (wrong) because it doesn't match the accumulated statistics.
+
+How do they combat this?
+To steer AI off the beaten path and reduce patterns, they use:
+
+- High Temperature & Top-P: Twisting the randomness parameters (so the model chooses less probable words).
+- Cross-Domain Prompting: Forcefully mixing terms from quantum physics and, for example, economics. This creates "sparks" at points where connections in the data were weak. - Adversarial Collaboration: One model generates an idea, while the second (critic) searches for logical holes or signs of patterning, forcing the first to rework the query.
+
+Want to try designing a prompt structure that will force the AI ​​to search for ideas in precisely those "blank areas" it would normally ignore?
+
+
+
+Continued in Episode Num xxxxxx32
+
+
+
+
+https://www.tumblr.com/blog/sci-fi-screenplay
+https://www.linkedin.com/in/valery-shmelev-004219404/
+https://missionoflameronspace.quora.com/
+
+
