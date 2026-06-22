@@ -1,0 +1,61 @@
+
+Let's try writing not just a script for a sci-fi film, but a plan or story for a screenplay, and we'll do it:
+- with the help of AI
+- with maximum use of cutting-edge (bordering on the fantastical, but still realistic) scientific hypotheses
+
+The time will come when AI reaches a level where one user will use it to create a full-fledged screenplay, and someone else will generate video, write audio tracks, and edit it into complete scenes and episodes (if it's a series).
+These can be different people, many different specialists – the project is open to participation.
+Scientific and technical justification for the scenario
+
+Prompt
+
+Episode Num xxxxx349
+Continuation  Episode Num xxxxx348
+
+A televised conference call. Two impressive men (1 and 2), clearly from the secret services, are sitting at a table with monitors.
+
+(1) - Let's continue. I believe it's time to discuss Jett in detail. I've received many questions since yesterday's meeting. And the most frequent ones were about Jett. So, what do we know? Colleague, give us the lowdown.
+(2) - I'll say this right away. All Jett DNA tests are identical. This is the same specialist. How he has been present for several centuries is what attracted attention. There is no definitive answer. It is known that in the 21st century, he was extensively documented using wearable neural devices. It can be argued that this man had the most comprehensive dataset of his own name on the planet. At the same time, Jett used neural objects, then called artificial intelligence, to intensify his own development. Large series of queries in various fields of science and technology are stored in various AI systems.
+       There's a large gap in Jett's data for over 70 years. We've established that his dataset was extensively used to train neural objects.
+       Yes. His data is present in a huge number of models, and until recently, it was thought impossible to extract it from them.
+       However, 27 years later, a compact neural model was recorded and tested for installation in production android models at the XXX company. This model closely matches Jett's behavioral characteristics.
+       Detectors of biomaterial authentication systems didn't detect his DNA at that time. We have this data.
+       The neural model was then tested several more times. And 45 years later, new traces of Jett's DNA were detected.
+       Moreover, this was preceded by dramatic events at the Singapore Biological Centre.
+       Let me remind you. 
+       The Atacama Telescope, a radio telescope, received, accumulated and processed radio signals. The received signals, of course, were never used as program code. However, processing failed, register overflow occurred, and unspecified code was executed. 
+       Decoding this section of data did not yield any results. 
+       During this same period, there was huge traffic with the Singapore Biological Centre. The security system responded to this. 
+       The center was locked down after an hour and a half. 
+       An investigation at the Center revealed that there was a biological leak. The remaining fragments of biomaterials contained Jett DNA fragments. 
+       After another 7 years, Jett got a job in a division of the XXXXXXXXX corporation engaged in quantum research. Management noted his phenomenal knowledge in the dossier. 
+       His DNA from this period is completely authentic. It is in the corporation's database.
+(1) - What can you say about the results of his work?
+(2) - Repeated analysis using neural systems did not reveal anything malicious. The laboratory's performance at this time was advanced. Two specialists received the Nobel Prize.
+(1) - What were they working on?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
