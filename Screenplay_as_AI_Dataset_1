@@ -1,0 +1,41 @@
+Mission Oflameron
+
+To train compact AI models for writing the script for the "Mission Oflameron" project, we will develop a dataset with examples based on the already written material https://github.com/vallshmeleff/ai-prompts-for-screenplay-plan
+
+Prompt to AI
+
+“Is it possible to train compact AI models like Qwen2.5 (7B) to write fragments of the MissionOflameron script?”
+
+AI response
+
+Yes, it is absolutely possible and is a great solution for such a creative challenge. Models of size 7B are perfectly amenable to additional training (Fine-Tuning) for a specific style, lore and script format on ordinary consumer or available cloud equipment.
+
+Advantages of Qwen 2.5 (7B) for this task
+
+Strong foundation: Qwen 2.5 has an excellent understanding of context and logic.
+Multilingual: The model works perfectly with Russian and English languages.
+Long Context: Supports large amounts of text, which is important for scripting.
+
+How to implement fine-tuning
+
+Dataset preparation. This is the most important step for maintaining the uniqueness of "MissionOflameron."
+Collect all existing texts, design documents (design docs), character descriptions, and lore.
+Break the material into Request -> Response pairs (e.g., Scene Input -> Script Text).
+Use script formatting (e.g., Fountain or a standard script format) to help the model learn the structure.
+Training method (LoRA / QLoRA). Training the entire model (Full Fine-Tuning) is too expensive. Use PEFT (Parameter-Efficient Fine-Tuning), specifically the QLoRA method.
+It freezes the main model and trains only a small percentage of adapters.
+Allows training on a single GPU (e.g., RTX 3090, RTX 4090, or cloud A10G / T4).
+Tools to Get You Started
+You don't need to write code from scratch. Use ready-made tools:
+Unsloth: Maximizes training speed for Qwen series models and reduces video memory consumption.
+LLaMA-Factory: A convenient tool with a web interface for customizing the training process without extensive programming.
+Hugging Face TRL: A library for custom Python scripts.
+
+Alternative: RAG and Few-Shot Prompting
+Before retraining, try giving the model context directly.
+Place the "MissionOflameron" lore in the system prompt or vector database (RAG).
+Show the model 2-3 examples of ideal scene writing (Few-Shot).
+For 7B models, this is often enough to capture the desired tone without the need for training.
+
+Valery Shmelev (Deutsche: Valery Shmeleff)
+
