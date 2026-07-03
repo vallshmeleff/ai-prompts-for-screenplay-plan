@@ -1,0 +1,74 @@
+
+Let's write English-language JSON examples for the English-language text-based datasets below to use when training a local AI model (e.g., Qwen2.5 7B).
+
+JSON Dataset "Mission Oflameron"
+
+Scientific Research Dataset (for generating science fiction concepts based on real scientific data)
+This format allows training models to connect science fiction ideas with real scientific research, supporting the development of science fiction concepts and scenarios:
+Add copyright information to the examples for the author of "Mission Oflameron." Something like:
+"copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"]
+Scientific Research Dataset (for generating science fiction concepts based on real scientific data)
+This format allows training models to connect science fiction ideas with real scientific research, supporting concept development in the field of hard science fiction:
+
+JSON 
+
+{
+  "id": "mission_oflameron_science_001",
+  "scifi_concept": "Self-assembling, shape-morphing cyborg particle system for planetary landing operations",
+  "real_world_science_foundation": [
+    {
+      "field": "Modular Robotics",
+      "current_research": "Self-reconfiguring robot modules that can assemble into different structures for different tasks, developed by MIT and other research institutions"
+    },
+    {
+      "field": "Swarm Intelligence",
+      "current_research": "Coordination of large numbers of simple agents (e.g., drone swarms) to achieve complex collective behaviors without centralized control"
+    },
+    {
+      "field": "Nanoscale Energy Harvesting",
+      "current_research": "Development of nanogenerators that can harvest energy from ambient vibrations, thermal gradients, and electromagnetic radiation"
+    },
+    {
+      "field": "Shape-Morphing Materials",
+      "current_research": "Programmable materials that can change shape in response to external stimuli, used in aerospace for adaptive wing structures"
+    }
+  ],
+  "plausibility_assessment": {
+    "short_term_feasibility": "Partial feasibility: individual components (modular robots, swarm coordination, energy harvesting) exist at low technology readiness levels, but integration into a single system is not currently possible",
+    "long_term_feasibility": "Theoretically possible with advances in nanotechnology, materials science, and autonomous systems, likely 50-100 years from current technology level",
+    "key_scientific_challenges": [
+      "Miniaturization of power, navigation, and assembly systems to micrometer scale",
+      "Maintaining communication and coordination between billions of individual particles",
+      "Ensuring reliable reassembly into functional hardware with high precision"
+    ]
+  },
+  "potential_applications_beyond_script": [
+    "Search and rescue operations in collapsed structures or hazardous environments",
+    "Space exploration of planets with extreme atmospheric conditions",
+    "Medical applications for targeted drug delivery or internal surgery",
+    "Environmental monitoring via distributed sensor networks"
+  ],
+  "tags": ["hard_scifi", "science_basis", "modular_robotics", "nanotech", "space_exploration"]
+}
+
+
+https://t.me/mdatasets
+
+
+https://github.com/vallshmeleff/ai-prompts-for-screenplay-plan
+https://www.tumblr.com/blog/sci-fi-screenplay
+https://web-prompt-examples.arrayphotocintrol.workers.dev/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
