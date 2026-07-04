@@ -24,3 +24,11 @@ http://moviescript.wikidot.com/blog:15
 http://moviescript.wikidot.com/blog:16
 http://moviescript.wikidot.com/blog:17
 https://web-prompt-examples.arrayphotocintrol.workers.dev/
+http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_21.txt
+http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_23.txt
+http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_24.txt
+http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_25.txt
+http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_27.txt
+http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_28.txt
+http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_29.txt
+
