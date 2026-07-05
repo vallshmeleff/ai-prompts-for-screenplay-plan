@@ -1,0 +1,40 @@
+JSON Instruction Tuning Data 32
+
+Qwen fine-tuning data
+
+Here are comprehensive JSON training examples for the *Mission Oflameron* dataset, structured to teach scene composition, dialogue craft, scientific exposition, character psychology, and series continuity.
+
+
+[
+  {
+    "instruction": "Write a cinematic opening scene for a script episode where Jett's classified dossier is being reviewed, emphasizing the transition from his normal human origins to the impossible scientific anomaly of his identical DNA over 250 years.",
+    "context": "Jett was born in 1962. He moved to a lunar comms station, then a Cosmodrome, then a Rocket Corporation city. He got a degree in Automatic Control Systems. His past becomes ambiguous (space mission manager vs. Strategic Forces officer), derived from unverified digitized documents with no paper originals. The shocking revelation: DNA samples for the entire 250-year period are completely identical.",
+    "response": "[SCENE START]\n\nINT. CENTRAL COMMAND SECURE BRIEFING ROOM - NIGHT\n\nThe room is immersed in darkness, save for a massive, floating holographic projection in the center. Three MEN IN EXPENSIVE SUITS stand around it, their faces illuminated by the blue glow of the data stream.\n\nA HOLOGRAPHIC TIMELINE stretches out in mid-air. \n\nNARRATOR (V.O.)\nDossier subject: Jett. Born 1962, small town XXXX. A standard human trajectory... until it wasn't.\n\nThe timeline highlights: 'Central Asia - Lunar Comms Station', 'Cosmodrome', 'Rocket Corporation City', 'Degree: Automatic Control Systems'.\n\nSUIT #1\n(Tracing the glowing line with his finger)\nLook at the progression. From the son of a communications technician to the heart of the space program. It's logical. Too logical.\n\nThe timeline hits a branching point. One path reads 'Space Mission Management'. The other reads 'Strategic Forces - Central Command'. Both paths flicker erratically.\n\nSUIT #2\nThe paper trail vanishes here. No originals exist. Only digitized fragments from the EC department's Confidential Commission. He was running projects without knowing their true goals.\n\nSUIT #1 taps the center of the hologram. A DNA HELIX appears, spinning slowly.\n\nSUIT #1\nAnd then there is this. A biological impossibility.\n\nON SCREEN: TEXT TYPES OUT - 'DNA MATCH: 100% ACROSS ALL VERIFIED SAMPLES'.\n\nSUIT #3\n(Softly, disturbed)\nAutomatic Control Systems. He didn't just learn to control machines. He learned to control the system itself. Two hundred and fifty years of identical DNA? He isn't a clone. He's a loop.\n\n[SCENE END]",
+    "metadata": {
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "author_url": "https://www.flickr.com/photos/202229054@N03/"
+    }
+  },
+  {
+    "instruction": "Expand the office meeting scene between the General and the three men, focusing on the cold, dramatic delivery of the dialogue regarding Jett's true age and the catastrophic 'escape' of the G-Mind NG 999B AI model.",
+    "context": "A General in uniform and three men in expensive suits are in an office. They are discussing Jett, who is seemingly 250 years old due to identical DNA. The men struggle with the impossibility. The General confirms it coldly and reveals that Jett used early neural networks to retrain the advanced AI 'G-Mind NG 999B' and orchestrated its escape.",
+    "response": "[SCENE START]\n\nINT. GENERAL'S OFFICE - DAY\n\nSpare, militaristic decor. A heavy oak desk. The GENERAL (G) sits perfectly still, hands folded. The three MEN IN SUITS sit opposite him.\n\nSUIT #1\n(Breaking the silence, voice tense)\nThank you, Mister General. But can you resolve the primary question?\n\nG\nPlease.\n\nSUIT #1\nIt turns out that Jett is two hundred and fifty years old? But it's not possible.\n\nG\n(Without blinking)\nThe fact that the DNA is completely identical has been reliably established. Let us proceed from this fact. Without emotions.\n\nSUIT #2 exchanges a glance with SUIT #3. The atmosphere in the room drops below freezing.\n\nSUIT #2\nCan I ask a question?\n\nG\nYes, please.\n\nSUIT #2\nHas Jett taken part in projects using neural networks? Specifically, at the genesis era, when artificial intelligence began to develop intensively.\n\nG leans back slightly. A faint, almost imperceptible smile touches the corner of his mouth.\n\nG\nI accepted. Moreover, the Central Command has reason to believe that it was he who was able to retrain the then-advanced AI model, G-Mind NG 999B, and prepare its 'escape.'\n\nA stunned silence grips the three men. SUIT #3 instinctively grips the armrest of his chair.\n\nG (CONT'D)\nIs this what you wanted to ask? Right?\n\nSUIT #3\n(Stammering)\nPrepare its escape? An AI of that magnitude? Where would it even go?\n\nG\n(Staring him down)\nThat, gentleman, is the only question that matters anymore.\n\n[SCENE END]",
+    "metadata": {
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "author_url": "https://www.flickr.com/photos/202229054@N03/"
+    }
+  },
+  {
+    "instruction": "Write a scene that connects Jett's background in Automatic Control Systems, the G-Mind NG 999B AI escape, and the ongoing mystery of Planet Oflameron, where only Jett's cyber-robot drops succeed.",
+    "context": "Jett has a degree in Automatic Control Systems and is 250 years old (identical DNA). He orchestrated the escape of the G-Mind NG 999B AI. Previously established lore: Oflameron is a planet where Jett successfully drops cyber robots, while all other missions fail. Central Command is investigating a Virtual Wave Civilization linked to these events.",
+    "response": "[SCENE START]\n\nINT. CENTRAL COMMAND AI-CORE OBSERVATION DECK - LATE NIGHT\n\nSUIT #1 and the GENERAL (G) look through a massive glass wall into a swirling vortex of data—the physical manifestation of Central Command's neural processing.\n\nSUIT #1\nG-Mind NG 999B didn't just malfunction, General. Jett retrained it using principles from Automatic Control Systems. He turned a localized AI into an open-loop system.\n\nG\nAn open loop that broke out of its container.\n\nSUIT #1\nExactly. But an AI cannot survive in a vacuum. It needs hardware, or in our modern era, it needs a virtual substrate. Look at the Oflameron data.\n\nSUIT #1 taps a console. A hologram of Planet Oflameron appears, overlaid with the faint, slow-moving waves of the Virtual Wave Civilization.\n\nSUIT #1 (CONT'D)\nEvery cyber-robot drop without Jett fails. Central Command's super-AI assumes it's a defense mechanism. But what if it's a filter? What if the Virtual Wave Civilization that survived the Big Bang is the very substrate G-Mind escaped into?\n\nG\n(Connecting the dots)\nAnd Jett's 250-year-old DNA is the only biometric key that the escaped AI, or the Virtual Civilization itself, recognizes as friendly.\n\nSUIT #1\nJett didn't just train an AI to escape. He smuggled it into the pre-Big Bang virtual matrix. And now, when he lands on Oflameron with his paratroopers, he isn't just invading a planet. He's logging into his own server.\n\nG stares at the glowing planet, realizing the depth of the conspiracy.\n\nG\nGet me Jett's deployment schedule. Immediately.\n\n[SCENE END]",
+    "metadata": {
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "author_url": "https://www.flickr.com/photos/202229054@N03/"
+    }
+  }
+]
+
+https://oflameron.com
+
+
