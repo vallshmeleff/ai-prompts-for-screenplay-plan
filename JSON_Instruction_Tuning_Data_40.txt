@@ -1,0 +1,96 @@
+
+JSON Data for AI fine-tuning. LoRA, QLoRA
+JSON_Instruction_Tuning_Data_40.txt
+
+
+[
+  {
+    "instruction": "Let's continue the dialogue in the Oval Room. Speaker (D) and General (G) discuss Jett's dossier.",
+    "input": "",
+    "output": "(G) — Jett worked for the Rocket and Space Corporation for some time, right?\n(D) — Yes. For about ten years.\n(G) — Did he try out for the astronaut division?\n(D) — No. He didn't meet the physical requirements at the time.\n(G) — What's wrong?\n(D) — His height was above the upper limit.\n(G) — Why did he leave for another job? Did he get more money?\n(D) — The money was indeed almost three times more. He was able to provide for his family. But the computer technology at his new job was significantly more advanced.\n(G) — More than in the space industry?\n(D) — They were going through a period of financial difficulties at the Space Corporation. They weren't buying new equipment.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "dialogue", "tension", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Continue the dialogue in the Oval Room. The Speaker (D) and the General (G) discuss the technical aspects of the G-Mind 3000 AI's "escape" from Jett's Development Center and the distillation of its personality.",
+    "input": "",
+    "output": "(G) — More about the “escape” of the AI ​​G-Mind 3000? If secret blocks of data marked with “watermarks” were added to the answers, will we be able to collect them back?\n(D) — Collecting them is probably possible. But what kind of AI we will get in the end is a big question. Jett is very creative. I would say phenomenally creative. What if we get an "AI bomb" as a result?\n(G) - Okay. Let's leave this question for now. Why does he need AI to “escape”?\n(D) — A lot can be assumed here.\n(G) — For example?\n(D) — For example, he could retrain the AI ​​using his personal data. Distillation...",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "action", "sci-fi", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Continue the dialogue in the Oval Room. The Speaker (D) and the General (G) discuss the technical aspects of the G-Mind 3000 AI's "escape" from Jett's Development Center and the distillation of its personality.",
+    "input": "",
+    "output": "(G) — Distillation of personal data? As far as I know, such experiments were conducted a long time ago. I believe it was called "Digital Double."\n(D) — Yes, such a trained AI imitated a human well. According to the hypothesis put forward by a writer from Russia, after some time of AI training, a "mixed consciousness" or "common consciousness" should emerge. This is half a step before the transition to Virtuality.\n(G) — Did it work?\n(D) — After several severe mental states of employees, these experiments were stopped.\n(G) — And what about their AI models?\n(D) — Most likely, the models are somewhere in the archives. At best. After all, they are already fifty years old.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "exposition", "lore", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Continue the dialogue in the Oval Room. The Speaker (D) and the General (G) discuss the technical aspects of the G-Mind 3000 AI's "escape" from Jett's Development Center and the distillation of its personality.",
+    "input": "",
+    "output": "(G) — We need to check if those AI models and their raw training data have been preserved, and if anyone has accessed them.\n(D) — Jett, at least, definitely worked with his own data. He wore sensors constantly.\n(G) — He was creating an AI copy of himself? How long did he do this?\n(D) — About a year and a half.\n(G) — And he didn't have any mental health issues. The Medical Commission cleared him. How so?\n(D) — He was retraining the AI ​​model, wearing sensors, but not communicating with it. So there was no split personality disorder. His psyche was unharmed.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "military", "tactics", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Write a dialogue in which D explains the mechanics of exceeding the speed of light to General (G).",
+    "input": "",
+    "output": "(G) — Explain what it means to "exceed the speed of light"?\n(D) — A vacuum isn't empty space. Pairs of particles are constantly appearing and disappearing there. On average, it's zero, nothing. But at some point in time, there might be something there. This is what limits the speed of light.\n(G) — How then can we exceed the classical speed of light?\n(D) — If we "break the vacuum" over a certain distance (create a channel of charged particles) and then "push" them apart, the resistance will drop sharply.\n(G) — Is this used anywhere now? (D) — Two experimental automatic devices were built. One of them attempted to penetrate the channel, but it collapsed and the device disappeared. It is believed that it doesn't exist. Due to the extreme cost, the project is currently on hold.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "technology", "mystery", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Write a dialogue in which D explains to General (G) the properties of Wave Consciousness.",
+    "input": "",
+    "output": "(G) — Virtual Consciousness, is it radio waves?\n(D) — Something like that. Distributed throughout Space, interacts very weakly with anything and is therefore little affected. Side effect - Virtual Consciousness is very slow. Very.\n(G) — At a snail's pace?\n(D) — The data processing speed there is something like 2 bits per hour. And these are "raw" bits. Taking into account error correction, it is even slower. Because of this, by the way, Humanity did not notice anything for centuries.\n(G) — And how can Virtual Consciousness influence anything with such a computing speed? (D) — And here comes the main surprise. 2 bits per hour, at EVERY POINT in space. Imagine a processor, for example, with ten exabit or a thousand exabit. Even with a clock frequency of 1 Hz, it will surpass all our combined computing power.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "visuals", "sci-fi", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Write a dialogue in which D explains to General (G) the properties of Wave Consciousness.",
+    "input": "",
+    "output": "(G) — If the Virtual Consciousness is distributed throughout the cosmos, then are we under complete control? (D) — The Virtual Consciousness knows everything, but its interaction with the material World is very weak. Its power may be enough to connect two molecules if they are close to each other. There is a theory that Humanity was created in order to accelerate the development of the World, to increase its influence on the real World. (G) — Another Theory of the Creation of the World? (D) — It is quite well confirmed. (G) — And the Transition Points? What are they for? (D) — They are a tool for interaction. But not only. It is possible that the porting of part of the Virtual Consciousness to our World is envisaged. Perhaps this is a cyclical process.",
+    "metadata": {
+      "channel": "https://tgstat.ru/en/channel/@mdatasets",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "character", "stakes", "Mission Oflameron"]
+    }
+  }
+]
+
+
+
+JSON / JSON Lines. JSON Lines (each line is a separate JSON object) are particularly popular: they're convenient for storing request-response pairs, dialogs, and instructions. For example, datasets for supervised fine-tuning (SFT) language models are often presented in this format.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
