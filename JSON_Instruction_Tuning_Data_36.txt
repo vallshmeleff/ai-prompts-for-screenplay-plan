@@ -1,0 +1,92 @@
+
+
+
+[
+  {
+    "instruction": "Continue the scene in the oval room. The Speaker (D) and the General (G) realize they might be bugged. Write the next few lines of dialogue and stage directions.",
+    "input": "",
+    "output": "(D) — The acoustics are bothering me. No echo. Not even from our own voices.\n(G) — Do you think they're listening in on us?\n(D) — I don't think we should test that. Get up. Go to the door.\n(G) — There's no door, D. You know that.\n(D) — Then go to the wall. There's a control unit there. Pretend to examine it. We need to get out. Now.\n(G slowly gets up, adjusting his jacket) — Keep your voice even. If they're listening to us, it won't tell them anything.\n(D) — Just calmly walk to the men's room, General. Let's go.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "dialogue", "tension", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Write a scene transition from the command room to the AE area in Oflameron. Jett (J) and his assistant Steeve (S) have just survived the landing craft crash.",
+    "input": "",
+    "output": "[Scene: Zone AE, planet Oflameron. Rocky terrain. Dust settles on the rocks.\n(J) - Steve. How's your status? Turn off the sound, activity to zero.\n(S) - I'm here, nearby. The suit is intact. The fall was... hard. The recovery vehicle managed to hide me under the surface.\n(J) - The magnetic cannon in our descent sector hit the ship. It happened last time too. The landing robots turned to dust. It will be a long time before they reassemble. We'll have to act without them.\n(S) - Telemetry from the X-ray laser is streaming in. It's in search mode.\n(J) - Check your physical ID. What does it show? Offline?\n(S) - It's blinking red. It says... environmental change. What does that mean, Jett?\n(J) - I don't know yet. It looks like the Transition Point is very close.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "action", "sci-fi", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Expand on the dialogue where the General (G) questions the limitations of the Virtual Consciousness (VC) and the Speaker (D) explains its rules.",
+    "input": "",
+    "output": "(G) - If the Virtual Consciousness is so slow, how can it influence anything? It seems useless.\n(D) - It's not about speed, General. It's about information omniscience and unlimited resources. It sees the entire hidden code of the Virtual World. It can transmit warnings to Jett even before he's trapped. It's possible that we can't hide our thoughts from the Virtual Consciousness. But perhaps we can get ahead of it.\n(G) - But it can't pull the trigger for Jett, can it? It can't turn off the laser or the proton cannon?\n(D) - Almost not. It's an observer. A ghost in the machine. It can't interact with physical matter or change physics. Very Weak Interaction. If the laser fires, the Virtual Consciousness will only be able to watch as Jett evaporates.\n(G) - So, the Virtual Consciousness's slowness is the only thing we can count on?\n(D) - We're counting on Jett using the Jump Point, as he did before. And we'll be able to understand how it works.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "exposition", "lore", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Describe the telemetry and visual feed of the landing craft hitting the magnetic cannon, as observed by D and G on their tablets.",
+    "input": "",
+    "output": "(G) - Turn on the thermal image. Now. I want to see how it turned out with the orbital laser.\n(D) - We got an image from the Far Echelon satellite. Here. Look at the debris dispersion.\n(G) - A very fast kinetic impact. Could this be a meteorite?\n(D) - The detection sensors on the X-ray laser were activated an instant before impact. The impactor is approximately 50 centimeters in diameter. Material - ice. Velocity - over 20 km/sec.\n(G) - Is the orbital laser still operational?\n(D) - The power plant cooling circuits on the screen are fading to red. The laser is in emergency mode. Radiation levels are still normal, but without cooling, a shot is impossible.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "military", "tactics", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Write the dialogue where D explains the mechanics of Steeve's new distributed identifier and why it showing an 'environment change' is alarming to the General.",
+    "input": "",
+    "output": "(G) — Explain Steeve's "distributed" ID. Why can't it be retrieved or destroyed?\n(D) — It's not stored on a single physical chip. It's fragmented throughout his body. To disable the ID, Steeve would have to be destroyed at the molecular level.\n(G) — And yet, the ID shows that the environment has changed. How is that possible if it can't be deleted?\n(D) — That could be if the environment itself was altered around Steeve. Or... Steeve was removed from the standard physical display.\n(G) — Keep it simple, D. What do you mean?\n(D) — It's possible that Steeve also entered the Virtual State, General. The ID still works because the body still exists. But with "the rest" - that's unclear.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "technology", "mystery", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Describe in detail how Jett orchestrated the escape of the G-Mind 3000 AI.",
+    "input": "",
+    "output": "(G) - Do you think Jett was able to organize the escape of the G-Mind 3000 AI from the Development Center? (D) - More likely not organize it, but teach the AI ​​how to do it. (G) - But the system still exists, right? G-Mind 3000 remained in the Development Center after Jett. (D) - Yes, there were no drastic changes in the weighting coefficients. The interaction scheme between areas and layers is the same. But the AI's "personal" area was recreated six months before Jett's departure. (G) - If I understand correctly, it is not possible to copy and export this part of the AI's data; there is no technical capability. (D) - That's true. But the AI ​​generated program code, images, examples for Datasets, and synthesized audio. This is information diffusion.",
+    "metadata": {
+      "author": "Valery Shmelev",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "visuals", "sci-fi", "Mission Oflameron"]
+    }
+  },
+  {
+    "instruction": "Write the dialogue where D explains the physical risks of the X-ray laser hitting Jett, differentiating between his material body and his virtual copy.",
+    "input": "",
+    "output": "(G) — If Jett gets hit by an orbital laser, what will happen to it? Will it survive? (D) — That depends on its exact state of phase transition at the moment of the X-ray flux. If it is still material, the laser will instantly vaporize its biomass. No chance. (G) — What if it has partially transitioned to a Virtual state? What if it is in the process of transitioning between Worlds? (D) — The energy can be absorbed by the Transition Point. The Transition Point itself will certainly survive. This laser is not of critical power; it cannot tear a vacuum. (G) — Then why was it necessary to prepare the laser at all? What is the point of using it? (D) — Steeve, my General. It contains secret information sensors of various types. If they can virtualize, Central Command will be able to obtain the data. This is a real attempt.",
+    "metadata": {
+      "channel": "https://tgstat.ru/en/channel/@mdatasets",
+      "copyright": ["valery_shmelev", "valery_shmeleff", "oflameron"],
+      "tags": ["screenplay", "character", "stakes", "Mission Oflameron"]
+    }
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
