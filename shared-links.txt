@@ -31,4 +31,5 @@ http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_25.txt
 http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_27.txt
 http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_28.txt
 http://weblib.oflameron.com/JSON_Instruction_Tuning_Data_29.txt
+https://notes.stuve.fau.de/s/V3S85GDRvD
 
