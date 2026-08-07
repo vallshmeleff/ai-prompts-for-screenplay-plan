@@ -53,5 +53,9 @@ The Atacama Radio Telescope had been receiving signals for many years. As AI dev
 
 No one imagined that the very development of AI would necessitate the emergence of "keywords"—large blocks of data that unlock access to administrative mode. The Virtual Consciousness simply waited for the right confluence of circumstances.
 
+As part of Project Roerr, Central Command commissioned a Trans-Hypersonic transport. The vehicle featured a petawatt pulsed disk laser in the nose, which superheated and ionized a channel in front of the Roerr. High-power microwave radiation was injected into the channel. The charged particles repelled each other, creating a low pressure in the channel, where the Roerr was accelerated by a nuclear ramjet engine. This ensured low kinetic heating. When the vehicle entered the rarefied layers of the atmosphere and outer space, liquid metal was injected into the engine as a working fluid. A directional laser was located at the center of the disk laser in the nose, creating a gas density asymmetry in the rarefied channel. Jett stumbled upon this data by accident.
+
+A key feature of the AI ​​Boom Era in the 2020s is the inability to interpret the accumulated knowledge of the AI ​​model. In the current technological race, no one wanted to dedicate massive resources to interpreting neural network weights. This allowed Jett to efficiently work on its subprojects within larger language models.
+
 
 ...
