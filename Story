@@ -57,5 +57,7 @@ As part of Project Roerr, Central Command commissioned a Trans-Hypersonic transp
 
 A key feature of the AI ​​Boom Era in the 2020s is the inability to interpret the accumulated knowledge of the AI ​​model. In the current technological race, no one wanted to dedicate massive resources to interpreting neural network weights. This allowed Jett to efficiently work on its subprojects within larger language models.
 
+Back in the 2020s, the predecessor of Central Command, using AI, attempted to determine the parameters of threats that could theoretically arise from technological development. It turned out that the greatest danger was posed by a combination of: 1. AI's ability to independently refine its internal structure; 2. A lagging level of control over its structure and the ability to interpret accumulated AI knowledge; and 3. AI access to biological engineering. Point 3 here does not imply the direct creation of organisms, but the possibility of creating code "inserts" in biological designs that would trigger in an unknown manner and time. The Singapore Biotechnology Centre focused on security issues in biological research and therefore possessed all possible tools and technologies for engineering. As often happens, the security threshold was crossed under the influence of new external factors.
+
 
 ...
