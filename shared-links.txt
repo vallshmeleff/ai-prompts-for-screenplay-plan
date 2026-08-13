@@ -36,5 +36,7 @@ http://beige-random-bobolink-656.mypinata.cloud/ipfs/bafkreih5t6dks7gwpvlj64274d
 https://huggingface.co/datasets/Oflameron/sci-fi-Synopsis
 https://github.com/vallshmeleff/sci-fi-synopsis-skills/blob/main/SKILL.md
 https://www.skills.sh/vallshmeleff/sci-fi-synopsis-skills/sci-fi-synopsis-mission-oflameron-skillset 
+https://www.tumblr.com/blog/sci-fi-screenplay
+
 
 
