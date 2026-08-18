@@ -37,6 +37,7 @@ https://huggingface.co/datasets/Oflameron/sci-fi-Synopsis
 https://github.com/vallshmeleff/sci-fi-synopsis-skills/blob/main/SKILL.md
 https://www.skills.sh/vallshmeleff/sci-fi-synopsis-skills/sci-fi-synopsis-mission-oflameron-skillset 
 https://www.tumblr.com/blog/sci-fi-screenplay
+https://albums.memento.com/share73797agi/p/69fc71777f33529d896311ab?sortBy=taken&order=asc
 
 
 
