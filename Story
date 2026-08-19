@@ -75,6 +75,8 @@ It's difficult to say exactly when Central Command first took notice of Jett. Mo
 
 Central Command, fearing that Jett would "escape" through the Jump Point into Virtual Reality, ordered the old X-ray laser to be prepared in orbit around Oflameron. The laser was in critical condition—one of its strike system cooling circuits had been damaged, and the reactor fuel was running low on fuel. Cooling system problems prevented even a single shot from being fired safely at maximum power. And the proton cannon, which had been urgently being moved into rendezvous orbit with Oflameron, would not arrive for another two days. Under these circumstances, Jett began its third landing on the planet's surface—time was running out.
 
+While still at university in the 1980s, Jett landed a summer internship at Start, a company that manufactured electronic components. He became intrigued by the idea of ​​microrobots that could autonomously assemble themselves into macrodevices that could perform various functions. Much later, Jett returned to this idea at a new technical level – using AI, he was able to develop a technology for creating pico-dots that could be "assembled" into anything from a door lock to a lawn mower. This is how integrated Cyborgs were born – invulnerable robots for high-risk airborne operations. Jett spent time meticulously refining this technology.
+
 
 Edited 08.2026
 ...
