@@ -83,6 +83,8 @@ In 1994, Valery Shmelev coined the synthetic word 'Oflameron'. A little later, t
 
 Jett used AI to design and create a pico-dot-an angstrom-sized device with no moving parts and capable of performing only a few actions: attaching to other similar 'dots' on a specific side, detaching from a specific side, transmitting or not transmitting electrical signals, and transmitting or not transmitting light pulses in a specific direction. The ND printer that generated the 'dots' was the size of a bar of soap. The first thing Jett made from the pico-dots was an ordinary nail. Jett hammered it into a board. Then, nervously, he pulled it out. The nail looked 'as good as new.' From these 'dots,' Jett prepared a group of integrated Cyborgs-robots that were indestructible and could penetrate Oflameron like dust.
 
+The Central Command in 'Mission Oflameron' is a highly powerful and complex neural network that controls all aspects of human society. This network has a long-established structure and exists as a self-sufficient virtual organism. The parameters of this network, its computing resources, and its structure are a complete secret. It is unknown whether anything (Something) has greater authority than the Central Command. The state-of-the-art technology in 'Mission Oflameron' allows for completely transparent access to human consciousness, the preservation of all memory, memory erasure, and the restoration of memory from backup. Jett used these technologies before undergoing an 'interview' (questioning) with the Central Command. In this way, Jett was able to preserve some of his developments and save the Patient, whose medical history provided the key to understanding the Transition Points into virtual reality.
+
 
 
 Edited 08.2026
