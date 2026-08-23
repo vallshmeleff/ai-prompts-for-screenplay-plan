@@ -85,6 +85,8 @@ Jett used AI to design and create a pico-dot-an angstrom-sized device with no mo
 
 The Central Command in 'Mission Oflameron' is a highly powerful and complex neural network that controls all aspects of human society. This network has a long-established structure and exists as a self-sufficient virtual organism. The parameters of this network, its computing resources, and its structure are a complete secret. It is unknown whether anything (Something) has greater authority than the Central Command. The state-of-the-art technology in 'Mission Oflameron' allows for completely transparent access to human consciousness, the preservation of all memory, memory erasure, and the restoration of memory from backup. Jett used these technologies before undergoing an 'interview' (questioning) with the Central Command. In this way, Jett was able to preserve some of his developments and save the Patient, whose medical history provided the key to understanding the Transition Points into virtual reality.
 
+In August 2026, Jett (of 'Mission Oflameron') developed an effective and simple technology for removing AI "watermarks" from generated texts. Text of any length was converted to analog form and then re-digitized. A reliable countermeasure to this system remained the creation of a text hash bank, where dozens of hash functions for different fragments of the text are compiled and posted in a public archive for verification.
+
 
 
 Edited 08.2026
