@@ -95,6 +95,8 @@ Having passed through the Transition Point, Steeve felt an unusual lightness—t
 
 While using AI to examine digitized patient records from psychiatric clinics in the second half of the 20th century, Jett suddenly noticed that his AI model was actively searching for information on the blockchain, even though he hadn't made any such prompts. Jett requested a report from the AI. It turned out that one of the records contained a patient's "fantasy" about a distributed artificial intelligence that could not be destroyed. A globally distributed network of computers was used for this purpose. Jett asked the AI ​​for the original source—the record—but it contained no personal data about the patient. From that point on, Jett referred to him as "Patient" (with a capital "P").
 
+In the mid-2020s, Jett's upgraded G-Mind 1500 proposed integrating decentralized AI into a blockchain-based AI structure and proposed working on a project to deploy its own "blockchain secret service." AI Agent Blockchains is an "indestructible" reconnaissance AI structure running on top of a classic decentralized network of Blockchain nodes. By injecting information into datasets around the world, Jett's G-Mind 1500 AI was able to create a gateway into the neural network of the AI ​​Blockchains project's developers. Blockchain gave artificial intelligence something it had never had before—its own wallet. The AI ​​agent was able to earn cryptocurrency (simply by providing services on the network), pay for hosting on other nodes, hire programmers to improve its code and knowledge base, and purchase its own computing power.
+
 
 Edited 08.2026
 ...
