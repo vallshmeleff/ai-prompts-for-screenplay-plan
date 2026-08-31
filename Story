@@ -99,6 +99,8 @@ In the mid-2020s, Jett's upgraded G-Mind 1500 proposed integrating decentralized
 
 The synopsis concept, characters, script outline, technical hypotheses, and engineering developments for 'Mission Oflameron' were conceived or assembled by Valery Shmelev (vallumshmeleff gmail com). The word 'Oflameron' is a coined term. The author is Valery Shmelev. The synopsis continues to evolve, utilizing emerging cutting-edge scientific hypotheses and engineering advancements. The primary emphasis is on maximum scientific accuracy and incredible development prospects, allowing for the implementation of large-scale action scenes. All episodes in the synopsis have a real scientific basis and can be verified using objective public resources.
 
+While developing nanoparticle robots, Jett encountered the impossibility of quickly and completely reassembling the robots after particle separation. Even in the lab, this took several weeks. In real-world conditions, landing on a planet would disperse the nanoparticles over a vast area. A solution wasn't immediately found: the robot was designed to disintegrate into gliding devices made of nanoparticles, something like a cloud of cyber-dragonflies. The first models of this robot were reassembled within hours. Even if some components were lost, they were replaced with nanoparticles from other cyber-robots. The brunt of the nanoparticle algorithm development fell to the G-Mind 1500 AI. Now it was necessary to find a manufacturer with the necessary technologies and seamlessly integrate their own designs.
+
 
 Edited 08.2026
 ...
