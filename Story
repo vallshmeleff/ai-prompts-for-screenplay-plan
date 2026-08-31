@@ -101,6 +101,8 @@ The synopsis concept, characters, script outline, technical hypotheses, and engi
 
 While developing nanoparticle robots, Jett encountered the impossibility of quickly and completely reassembling the robots after particle separation. Even in the lab, this took several weeks. In real-world conditions, landing on a planet would disperse the nanoparticles over a vast area. A solution wasn't immediately found: the robot was designed to disintegrate into gliding devices made of nanoparticles, something like a cloud of cyber-dragonflies. The first models of this robot were reassembled within hours. Even if some components were lost, they were replaced with nanoparticles from other cyber-robots. The brunt of the nanoparticle algorithm development fell to the G-Mind 1500 AI. Now it was necessary to find a manufacturer with the necessary technologies and seamlessly integrate their own designs.
 
+Analyzing Jett's work, Central Command received information about the existence of an ideal (canonical) technology for the virtualization of consciousness and the reverse materialization of virtual consciousness through Transition Points. For Central Command (the neural network that controls everything), this provided the ability to transition to a physical form of existence while retaining powerful capabilities for monitoring and managing society. This created an immediate threat of an uncontrolled dictatorship.
+
 
 Edited 08.2026
 ...
