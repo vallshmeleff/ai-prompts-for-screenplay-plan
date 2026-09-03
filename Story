@@ -107,6 +107,7 @@ The transition from the material to the virtual world (the virtualization of con
 
 Steeve is the second protagonist in the "Mission Oflameron" scenario. He is Czech by nationality, with a degree in mathematics and a secondary (additional) biology. He has extensive experience working with neural networks, has analyzed protein structures, worked on programming, and engineered projects. He has developed nanoparticles for building self-healing robots, and is the author of several creative methods for analyzing medical data.
 
+After graduating from the University, Steeve worked for a time in Department 114 on a high-hypersonic rocket project with a ramjet engine. Steeve proposed bleed-off excess air before the rocket's air intake and, through thousands of tiny holes in the body, create an "air lubrication" that would reduce overall drag and kinetic heating. Since the rocket launched from a container, the risk of contamination of the holes before flight was minimal. Documentation for the prototypes remained classified for a long time.
 
 
 Edited 09.2026
