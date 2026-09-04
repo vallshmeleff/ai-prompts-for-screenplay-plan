@@ -109,6 +109,8 @@ Steeve is the second protagonist in the "Mission Oflameron" scenario. He is Czec
 
 After graduating from the University, Steeve worked for a time in Department 114 on a high-hypersonic rocket project with a ramjet engine. Steeve proposed bleed-off excess air before the rocket's air intake and, through thousands of tiny holes in the body, create an "air lubrication" that would reduce overall drag and kinetic heating. Since the rocket launched from a container, the risk of contamination of the holes before flight was minimal. Documentation for the prototypes remained classified for a long time.
 
+'Mission Oflameron' utilizes the high-performance Roerr manned rocket, approximately 3 meters in diameter. The rocket's nose cone houses a high-power, ring-shaped, disk-shaped laser that ionizes the atmosphere in the direction of travel. A high-power microwave emitter inside the laser ring pushes ionized particles out of the channel, creating a vacuum and reducing drag. By changing the direction of the microwave radiation (and the gas density in the channel), control torques are created at high speed. The dense air at the boundary of the channel (slightly larger than the rocket's diameter) is captured by an air intake and fed into a ramjet nuclear engine as the working fluid.
+
 
 Edited 09.2026
 ...
