@@ -236,6 +236,10 @@ Having dispatched Jett on a new mission to Oflameron, Central Command grew conce
 
 Central Command, having sent Jett on a mission to search for the "Transition Point" on Oflameron, now feared that Jett would "leave" through the "Transition Point" into Virtual Reality and ordered the restoration of the terrawatt emergency X-ray laser in orbit of the planet. The laser was damaged and one of the two cooling circuits of the firing complex was not functioning, and the fuel life in the nuclear reactor was running out. Problems with the cooling system did not allow the shot to be fired at maximum power. The proton cannon, which, by order of the Central Command, was urgently prepared for the transition to Oflameron orbit, could arrive in the target area only after two days. In such conditions, Jett and a team of robots began their third landing on the surface of the planet - there was no time to hesitate, time was now playing against him.
 
+('Mission Oflameron' Synopsis. Dataset example) Virtual Consciousness employs composite electromagnetic computing-based on electromagnetic waves and operations on various types of dynamic metasurfaces—that requires exceptionally complex error correction. Because these computations are distributed throughout the Universe, this Virtual (Wave-based) Consciousness operates "very slowly" - far more slowly than the world as we know it. For it, all events and changes unfold over timescales thousands of times longer. Due to this extreme slowness and its weak level of interaction, the Virtual Consciousness remained undetected by observers and scientists for centuries.
+
+('Mission Oflameron' Synopsis. Dataset example) Virtual Consciousness employs composite electromagnetic computing distributed throughout the Universe, which renders it "very slow"- far slower than the world we are accustomed to. For it, all events and changes take thousands of times longer to unfold. Because of this extreme slowness and its weak level of interaction, Virtual Consciousness remained undetected by observers for centuries.
+
 
 Edited 11.2026
 
