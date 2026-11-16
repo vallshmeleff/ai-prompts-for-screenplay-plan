@@ -53,6 +53,7 @@ https://discord.com/channels/1488101964163321929/1488101967782875210
 https://ieee-dataport.org/documents/agi-language-training
 https://ieee-dataport.org/documents/data-developing-hard-sci-fi-film-screenplay-using-ai
 https://pastebin.com/xB25Mej1
+https://www.kaggle.com/datasets/oflameron/hard-sci-fi-screenplay-generate-dataset
 
 
 
